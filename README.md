@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laughface809
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Frontend lol :D
-- 💞️ I’m looking to collaborate on Googles
+- 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me WA 082161864273
 
 <!---
