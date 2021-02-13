@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Frontend lol :D
 - 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me WA 082161864273
+- 📫 How to reach me IRL
 
 <!---
 laughface809/laughface809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
