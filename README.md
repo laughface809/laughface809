@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1603705805/11110/crewmate.gif?1603705805" width="30"/> Hi there!
 
-<img src="https://media1.tenor.com/images/414acf7521f2621a23ead561a0145747/tenor.gif?itemid=5518462"></br>
+<img src="https://media.tenor.com/images/a26199b957a766fa315066632a60f16d/tenor.gif"></br>
 Fullstack from **Denpasar** <img src="https://emojis.slackmojis.com/emojis/images/1562883039/5948/bongo_blob.gif?1562883039" width="30" />
 
 
