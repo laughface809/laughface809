@@ -1,6 +1,6 @@
 |  |  |
 | ------------- | ------------- |
-| Open Data (Python)  |  |
+| Open Data (Python)  | https://kresec.stikom-bali.ac.id (Wordpress) |
 | https://aidhub.org (Javascript)  | https://aidhub.net (Gatsby)  |
 | https://dota-monster.vercel.app (Svelte)  | https://themes-two.vercel.app (DaisyUI)  |
 | https://welcome-2022.vercel.app (Svelte)  | https://2022-starter-vercel.vercel.app (Svelte)  |
