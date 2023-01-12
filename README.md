@@ -10,5 +10,5 @@
 | https://vue-series-a5ug.vercel.app (Vue) | https://learning-resources-abxbnanbb-laughface809.vercel.app (Vue) |
 | https://the-basics-laughface809.vercel.app (Angular) | https://databindingfinal-meppe1gqc-laughface809.vercel.app (Angular) |
 | https://angular-series-acv9qh8wm-laughface809.vercel.app (Angular) | https://laughface8093dbackground.vercel.app (React) |
-| https://the-matrix-black.vercel.app (React) |  |
-| |  |
+| https://the-matrix-black.vercel.app (React) | https://galaxy-react-3i4t3kx7t-laughface809.vercel.app (React) |
+| | |
