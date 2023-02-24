@@ -6,10 +6,10 @@
 | https://aidhubfoundation.gatsbyjs.io (Gatsby) | https://themes-two.vercel.app (DaisyUI) |
 | https://stunning-maamoul-54bd04.netlify.app (Gatsby)  | https://yuyuscanner.vercel.app (Svelte)  |
 | https://2022-starter-vercel.vercel.app (Svelte) | https://marvelous-bubblegum-36122b.netlify.app (Svelte)  |
-| https://welcome-2022.vercel.app (Svelte) | https://open-data-template-1.vercel.app (Sveltekit + Socket + GraphQL) 🔥Hot |
+| https://multilingual-dashboard.vercel.app (ReactJS) | https://open-data-template-1.vercel.app (Sveltekit + Socket + GraphQL) 🔥Hot |
 | https://vue-series-a5ug.vercel.app (Vue) | https://learning-resources-abxbnanbb-laughface809.vercel.app (Vue) |
 | https://the-basics-laughface809.vercel.app (Angular) | https://databindingfinal-meppe1gqc-laughface809.vercel.app (Angular) |
 | https://angular-series-acv9qh8wm-laughface809.vercel.app (Angular) | https://laughface8093dbackground.vercel.app (React) |
 | https://the-matrix-black.vercel.app (React) | https://galaxy-react-3i4t3kx7t-laughface809.vercel.app (React) |
-| https://vue-monsterslayer.vercel.app (Vue)  | |
+| https://vue-monsterslayer.vercel.app (Vue)  | https://welcome-2022.vercel.app (Svelte) |
 | | |
