@@ -12,4 +12,4 @@
 | https://angular-series-acv9qh8wm-laughface809.vercel.app (Angular) | https://laughface8093dbackground.vercel.app (React) |
 | https://the-matrix-black.vercel.app (React) | https://galaxy-react-3i4t3kx7t-laughface809.vercel.app (React) |
 | https://vue-monsterslayer.vercel.app (Vue)  | https://welcome-2022.vercel.app (Svelte) |
-| | |
+| https://baznasupzalhidayahgatsu.com/ (React) | |
